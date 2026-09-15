@@ -1,0 +1,6 @@
+{
+  "name": "Commatch!",
+  "description": "Mobil öncelikli, 2D casual merge & koleksiyon bulmaca oyunu. Her nesneyi birleştir, seviyeleri tamamla ve koleksiyonu keşfet!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
